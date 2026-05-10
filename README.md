@@ -72,14 +72,14 @@ Main features:
 ### 2. Exploratory Data Analysis (EDA)
 
 - Analyzed game round distribution
-![bootstrap_distribution](charts/Distribution_of_Game_Rounds.png).
+- ![bootstrap_distribution](charts/Distribution_of_Game_Rounds.png).
 - Identified skewed user behavior
 - Visualized player engagement distribution
 
 ### 3. Outlier Detection
 
 - Detected extreme gameplay outliers
-![bootstrap_distribution](charts/Distribution_After_Removing_Outliers.png).
+- ![bootstrap_distribution](charts/Distribution_After_Removing_Outliers.png).
 - Removed abnormal records for more reliable analysis
 
 ### 4. Retention Analysis
@@ -121,13 +121,13 @@ Calculated 95% confidence intervals to validate experiment reliability.
 
 - The difference between groups was NOT statistically significant.
 - p-value > 0.05
-![1-Day Retention](charts/retention_1.png)
+- ![1-Day Retention](charts/retention_1.png)
 
 ### 7-Day Retention
 
 - The difference between groups WAS statistically significant.
 - gate_30 achieved higher long-term retention.
-![7-Day Retention](charts/retention_7.png)
+- ![7-Day Retention](charts/retention_7.png)
 
 ### Bootstrap Result
 
