@@ -72,12 +72,14 @@ Main features:
 ### 2. Exploratory Data Analysis (EDA)
 
 - Analyzed game round distribution
+![bootstrap_distribution](charts/Distribution_of_Game_Rounds.png).
 - Identified skewed user behavior
 - Visualized player engagement distribution
 
 ### 3. Outlier Detection
 
 - Detected extreme gameplay outliers
+![bootstrap_distribution](charts/Distribution_After_Removing_Outliers.png).
 - Removed abnormal records for more reliable analysis
 
 ### 4. Retention Analysis
@@ -131,7 +133,7 @@ Calculated 95% confidence intervals to validate experiment reliability.
 
 - Bootstrap distribution consistently favored gate_30.
 - Confidence interval did not include 0.
-![bootstrap_distribution](bootstrap_distribution.png).
+![bootstrap_distribution](charts/bootstrap_distribution.png).
 ---
 
 ## Business Insights
