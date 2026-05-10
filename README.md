@@ -155,6 +155,7 @@ cookie-cats-ab-test/
 ├── charts/
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
