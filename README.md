@@ -119,17 +119,19 @@ Calculated 95% confidence intervals to validate experiment reliability.
 
 - The difference between groups was NOT statistically significant.
 - p-value > 0.05
+![1-Day Retention](charts/retention_1.png)
 
 ### 7-Day Retention
 
 - The difference between groups WAS statistically significant.
 - gate_30 achieved higher long-term retention.
+![7-Day Retention](charts/retention_7.png)
 
 ### Bootstrap Result
 
 - Bootstrap distribution consistently favored gate_30.
 - Confidence interval did not include 0.
-
+![bootstrap_distribution](bootstrap_distribution.png).
 ---
 
 ## Business Insights
